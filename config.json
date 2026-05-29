@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperftringify",
+        "uuid": 866868,
+        "checksum": "mk4vz"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
